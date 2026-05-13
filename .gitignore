@@ -14,5 +14,4 @@ datasets
 *.onnx
 runs
 
-ultralytics-git/
 sahi-git/

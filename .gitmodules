@@ -1,0 +1,3 @@
+[submodule "ultralytics-git"]
+	path = ultralytics-git
+	url = git@github.com:neoluxis/ultralytics.git
